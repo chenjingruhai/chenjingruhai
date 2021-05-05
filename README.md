@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒
 
 - 👀 reading  《计算机网络自顶向下》
 
